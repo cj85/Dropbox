@@ -1,6 +1,6 @@
 jing tong zheng ze 81
 effecitve java 42
 visual_studio_2012_C++ 11
-thinking in c++ 396
 except.cpp
-linux core 0.11 64
+linux core 0.11 103
+effective memory 27
